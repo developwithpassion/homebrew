@@ -103,7 +103,7 @@ EOS
 
 class Coreutils <Formula
   @url="http://ftp.gnu.org/gnu/coreutils/coreutils-7.5.tar.gz"
-  @md5='775351410b7d6879767c3e4563354dc6'
+  @md5='c1ffe586d001e87d66cd80c4536ee823'
   @homepage='http://www.gnu.org/software/coreutils'
 
   def install

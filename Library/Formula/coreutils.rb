@@ -102,7 +102,7 @@ alias '['="$brew_prefix/bin/g["
 EOS
 
 class Coreutils <Formula
-  @url="http://ftp.gnu.org/gnu/coreutils/coreutils-7.5.tar.gz"
+  @url="http://ftp.gnu.org/gnu/coreutils/coreutils-8.5.tar.gz"
   @md5='775351410b7d6879767c3e4563354dc6'
   @homepage='http://www.gnu.org/software/coreutils'
 
